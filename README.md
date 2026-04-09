@@ -38,3 +38,14 @@ auto -- type interface -- lets compiler figure the type
 doing intellisense config in edit config UI 
 
 selected c++20 in c++ standard
+
+
+
+
+-------- programs ---
+
+-- first program --
+
+PS D:\Projects\c++\first-cpp-program> g++ first.cpp -o first
+PS D:\Projects\c++\first-cpp-program> .\first.exe
+hello
