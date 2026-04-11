@@ -49,3 +49,8 @@ selected c++20 in c++ standard
 PS D:\Projects\c++\first-cpp-program> g++ first.cpp -o first
 PS D:\Projects\c++\first-cpp-program> .\first.exe
 hello
+
+--- cin cout ---
+sometime user write their name with space cin can get into errors for this we have getline
+
+use cin.ignore() - before getline  if using cin above getline it will ignore empty space 
