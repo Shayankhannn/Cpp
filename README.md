@@ -1,6 +1,7 @@
 C++
 42
 2 49
+3 40
 
 
 downloaded gcc + minggw from winlibs without llvm and clang 
@@ -59,6 +60,6 @@ use cin.ignore() - before getline  if using cin above getline it will ignore emp
 
 
 ----- data types -----
-
+int -- stores decimal -- 4byte memory or more
 void --  its typeless type -- will learn in detail later
 auto -- its a keyword 
