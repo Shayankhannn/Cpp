@@ -2,6 +2,7 @@ C++
 42
 2 49
 
+
 downloaded gcc + minggw from winlibs without llvm and clang 
 
 add some changes in args in task.json 
@@ -55,3 +56,9 @@ hello
 sometime user write their name with space cin can get into errors for this we have getline
 
 use cin.ignore() - before getline  if using cin above getline it will ignore empty space 
+
+
+----- data types -----
+
+void --  its typeless type -- will learn in detail later
+auto -- its a keyword 
