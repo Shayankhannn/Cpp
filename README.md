@@ -1,5 +1,6 @@
 C++
 42
+2 49
 
 downloaded gcc + minggw from winlibs without llvm and clang 
 
