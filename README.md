@@ -62,7 +62,7 @@ use cin.ignore() - before getline  if using cin above getline it will ignore emp
 ----- data types -----
 int -- stores decimal -- 4byte memory or more
 void --  its typeless type -- will learn in detail later
-auto -- its a keyword 
+auto -- its a keyword -- let the compiler deduce the type
 
 --------------------- int float -  double modifiers -------
 
@@ -77,3 +77,7 @@ otherwise the default will be double
 they take 1 byte in memory
 
 if you write std::boolalpha; - you will see actualm values of boolean like true and false instead of 0 and 1
+
+--------- char 
+
+char occupies 1 byte in memory 
