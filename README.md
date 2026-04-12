@@ -63,3 +63,12 @@ use cin.ignore() - before getline  if using cin above getline it will ignore emp
 int -- stores decimal -- 4byte memory or more
 void --  its typeless type -- will learn in detail later
 auto -- its a keyword 
+
+--------------------- modifiers -------
+
+. remember tthe suffix when initializing floating point variable 
+otherwise the default will be double 
+. double works well in many situation , so you will see it used alot 
+
+. eg for float float num {1.234553345334f} -- add f 
+. for long add l at the end 
