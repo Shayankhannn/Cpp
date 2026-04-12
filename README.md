@@ -64,7 +64,7 @@ int -- stores decimal -- 4byte memory or more
 void --  its typeless type -- will learn in detail later
 auto -- its a keyword 
 
---------------------- modifiers -------
+--------------------- int float -  double modifiers -------
 
 . remember tthe suffix when initializing floating point variable 
 otherwise the default will be double 
@@ -72,3 +72,8 @@ otherwise the default will be double
 
 . eg for float float num {1.234553345334f} -- add f 
 . for long add l at the end 
+
+---------------- boolean ----------
+they take 1 byte in memory
+
+if you write std::boolalpha; - you will see actualm values of boolean like true and false instead of 0 and 1
