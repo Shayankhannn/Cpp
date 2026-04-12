@@ -81,3 +81,9 @@ if you write std::boolalpha; - you will see actualm values of boolean like true 
 --------- char 
 
 char occupies 1 byte in memory 
+
+------- precedence and association -----
+
+precedence -- which operation to do first
+
+association -- which direction or which order
